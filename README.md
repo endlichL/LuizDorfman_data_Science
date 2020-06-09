@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-endlichL-LuizDorfman.svg)](https://www.linkedin.com/in/luiz-gustavo-dorfman-938986125/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="Data-Science-Certification.png" >
 </p>
 
 # Luiz Gustavo Dorfman
