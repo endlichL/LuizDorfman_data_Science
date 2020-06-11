@@ -22,3 +22,4 @@ Minhas credenciais incluem Graduação em Engenharia de Controle e Automação (
 ## Projetos:
 
 * **Prótotipo gerador de energia elétrica por meio de deslocamento de cargas:** https://bit.ly/37gumqc
+* **Análise de dados do AirBnb da cidade do Quebec, Montreal:**https://bit.ly/2UxLkes
