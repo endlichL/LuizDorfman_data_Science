@@ -9,7 +9,7 @@
 
 Como engenheiro de controle e supervisão de comissionamento de subestações de alta tensão e futuro cientista de dados, eu combino habilidades análiticas, capacidade de trabalho em equipe e atenção aos detalhes.
 
-Após passar os ultimos anos viajando pelo pelo brasil contribuindo para a distribuição e transmissão de eletricidade no setor de energia elétrica, consegui realmente entender problemas reais por todos os lugares que passei, tal pensamento aliado a ciência de dados fez com que despertasse o desejo de contribuir de forma relevante para a sociedade, utilizando as habilidades de resolução de problemas.
+Após passar os ultimos anos viajando pelo brasil contribuindo para a distribuição e transmissão de eletricidade no setor de energia elétrica, consegui realmente entender problemas reais por todos os lugares que passei, tal pensamento aliado a ciência de dados fez com que despertasse o desejo de contribuir de forma relevante para a sociedade, utilizando as habilidades de resolução de problemas.
 
 Minhas credenciais incluem Graduação em Engenharia de Controle e Automação (Mecatrônica) pela Universidade paulista e um Técnico em Eletrônica pela ETEC Albert Einstein.
 
